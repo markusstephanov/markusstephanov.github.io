@@ -46,7 +46,7 @@ body{
 .img_link:hover{
 	opacity: 1;
 	transition: 0.4s ease-in;
-	transform: scale(1.2) rotate(10deg);
+	transform: scale(1.2) rotate(0deg);
 	z-index: 10;
 	box-shadow: 0 0 200px 30px rgba(0,0,150,0.7);
 
