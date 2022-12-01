@@ -1,0 +1,24 @@
+@media all and (max-width: 1024px){
+	.img-box{
+		width: 90%;
+		column-count: 3;
+	}
+}
+@media all and (max-width: 760px){
+	.img-box{
+		width: 100%;
+		column-count: 2;
+	}
+}
+@media all and (max-width: 500px){
+	.img-box{
+		column-count: 1;
+	}
+}
+
+@media all and (max-width: 1200px){
+	.img-wrapper{
+		opacity: 1;
+		filter: sepia(1.3);
+	}
+}
